@@ -1,6 +1,9 @@
 <h1>README</h1>
 This is a simple program to view the Air Quality of any city in the world. It uses the Weatherbit API to retrieve real-time air quality information from thousands of weather stations across the world.
 <br>
+The app is now live: <a href="https://aqi-kgogoi.herokuapp.com/">Click Here</a>
+<br>
+<hr>
 <strong>How to Use:</strong>
 <br>
 1. Enter the name of the city you want to search
