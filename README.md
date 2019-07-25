@@ -6,9 +6,7 @@ The app is now live: <a href="https://aqi-kgogoi.herokuapp.com/">Click Here</a>
 <hr>
 <strong>How to Use:</strong>
 <br>
-1. Enter the name of the city you want to search
-<br>
-2. In the "Enter Country Name" field you have to enter the country code.   <strong>(Fix in next Version)</strong>
+Simply enter the name of the city you want to search along with the name of the country.
 <br>
 The list of Countries and their corresponding Country Codes are in the
 countries.csv file.
